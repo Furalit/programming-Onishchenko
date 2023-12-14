@@ -1,0 +1,5 @@
+<map id="main" name="main">
+<area shape="rect" id="node1" title="Головна функція програми." alt="" coords="5,31,60,57"/>
+<area shape="rect" id="node2" href="$main_8c.html#a5d06a1578648c9b23746188891b01aae" title="Функція для отримання цілого числа від користувача." alt="" coords="108,5,183,32"/>
+<area shape="rect" id="node3" href="$main_8c.html#a03175512d4c4876cf35791cdfa0301ff" title="Функція для перевірки, чи число є простим." alt="" coords="110,56,181,83"/>
+</map>
